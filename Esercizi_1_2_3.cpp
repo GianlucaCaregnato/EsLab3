@@ -85,4 +85,3 @@ void print_pointer(int* i, double* d) {
 	std::cout << *i << " " << *d << "\n";
 
 }
-
